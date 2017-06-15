@@ -1,0 +1,5 @@
+1.Topologia niepustej przestrzeni X jest:
+a)Zbiorem elementów X
+b)Dowoln¹ rodzin¹ podzbiorów X
+c)Rodzin¹ podzbiorów X spe³niaj¹c¹ pewne warunki
+d)Iloczynem kartezjañskim X i X
